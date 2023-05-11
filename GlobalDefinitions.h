@@ -1,0 +1,13 @@
+
+/* Created by Dell on 27/01/2022. */
+
+#ifndef FINALPROJECT_GLOBALDEFINITIONS_H
+#define FINALPROJECT_GLOBALDEFINITIONS_H
+
+#endif /* FINALPROJECT_GLOBALDEFINITIONS_H */
+
+#define TRUE 1
+#define FALSE 0
+#define N 82
+#define ERROR -999
+#define DICTIONARY_SIZE 1024
